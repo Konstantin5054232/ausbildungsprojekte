@@ -1,4 +1,0 @@
-**Projektname** | **Beschreibung** | **Verwendete Bibliotheken**
------------- | ------------- | -------------
-Studie von Anzeigen für den Verkauf von Wohnungen | Ziel der Studie ist es, zu lernen, wie man den Marktwert einer Wohnung bestimmt, Faktoren zu identifizieren, die den Preis von Wohnungen beeinflussen | Pandas
-
