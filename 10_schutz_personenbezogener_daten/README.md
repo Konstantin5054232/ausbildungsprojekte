@@ -1,3 +1,3 @@
 **Projektname** | **Beschreibung** | **Verwendete Bibliotheken**
 ------------ | ------------- | -------------
-Auswahl eines Standorts für eine Ölquelle | Ziel der Studie ist es, ein maschinelles Lernmodell zu erstellen, das dabei hilft, die Region zu bestimmen, in der der Bergbau den größten Gewinn bringt. Es ist notwendig, den möglichen Gewinn und die Risiken mit dem Bootstrap zu analysieren. | pandas, numpy, sklearn.metrics, sklearn.model_selection, sklearn.linear_model, scipy
+Schutz personenbezogener Daten von Kunden |Der Zweck der Studie besteht darin, eine solche Methode der Datentransformation zu entwickeln, damit es schwierig wäre, personenbezogene Daten von ihnen wiederherzustellen, um die Korrektheit ihrer Arbeit zu rechtfertigen. Daten müssen geschützt werden, damit die Qualität von Machine-Learning-Modellen während der Transformation nicht nachlässt. | pandas, numpy, sklearn.linear_model
