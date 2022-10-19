@@ -1,1 +1,3 @@
-
+**Projektname** | **Beschreibung** | **Verwendete Bibliotheken**
+------------ | ------------- | -------------
+Gewinnung von Gold aus Erz | Ziel der Studie ist die Erstellung eines Prototyps eines maschinellen Lernmodells, das die Gewinnungsrate von Gold aus Golderz vorhersagen soll. Es wurden Daten mit Extraktions- und Reinigungsparametern verwendet. Das Modell wird dazu beitragen, die Produktion zu optimieren, um kein Unternehmen mit unrentablen Eigenschaften zu gründen. Es wurde eine explorative Datenanalyse durchgeführt, optimale Hyperparameter mit dem GridSearchCV-Paket ausgewählt und eine eigene Metrik erstellt | pandas, numpy, sklearn.metrics, sklearn.model_selection, sklearn.linear_model, sklearn.ensemble, sklearn.tree, sklearn.metrics.scorer, scipy
