@@ -1,0 +1,3 @@
+**Projektname** | **Beschreibung** | **Verwendete Bibliotheken**
+------------ | ------------- | -------------
+Nachfrage nach Airline-Flügen | Ziel der Studie ist es, die Vorlieben von Benutzern zu verstehen, die Tickets zu verschiedenen Zielen kaufen, Studieren Sie die Datenbank und analysieren Sie die Passagiernachfrage nach Flügen in Städte, in denen die größten Kulturfestivals stattfinden. Analysierter Datensatz mit Informationen über Flugzeugmodelle, die Anzahl der Flüge für jedes Modell, die durchschnittliche Anzahl der in der Stadt ankommenden Flüge | pandas, seegeboren, matplotlib.pyplot, math, scipy
